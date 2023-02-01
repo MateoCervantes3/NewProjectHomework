@@ -4,5 +4,4 @@ Some print examples
 - this
 - is
 - a 
-- list
--for programming homework
+- list for programming homework
